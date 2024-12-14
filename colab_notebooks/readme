@@ -1,4 +1,4 @@
-# Overview
+#Overview
 This project is part of a machine learning assignment focusing on decision trees and ensemble methods. By implementing these algorithms from scratch, we gain a clear understanding of their core principles, including:
 
 How decision trees use impurity measures (e.g., Gini, entropy) to find optimal splits.
