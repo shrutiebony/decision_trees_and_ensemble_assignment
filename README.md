@@ -1,7 +1,7 @@
 # Machine Learning Techniques Repository
 
 Welcome to the **Machine Learning Techniques Repository**! This repository showcases implementations of various machine learning algorithms and techniques using Python and Jupyter Notebooks. Each notebook is hosted on Google Colab for easy accessibility and execution.
-
+### Youtube video: https://youtu.be/JT4J4iLjb-0
 ---
 
 ## Notebooks and Links
@@ -53,8 +53,6 @@ Implement ranking techniques with Gradient Boosting models, ideal for tasks like
 
 [GBM Ranking Techniques Notebook](https://colab.research.google.com/drive/1KmCOLFsQBqrwtmJC0KdPVxZyIEuxOecq?usp=sharing)
 
----
-Video [Link](https://studio.youtube.com/channel/UCOQEVKW90WjoLMlLumOMRaw)
 ---
 ## How to Use
 1. Click on any notebook link to open it in Google Colab.
